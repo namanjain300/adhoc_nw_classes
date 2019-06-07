@@ -59,4 +59,5 @@ chmod g+s /project			-> g=group; s=setgroupid
 su - jack				-> switch user to jack and goes to /home/jack directory
 su jack				-> switch user to jack and goes to current directory
 
-
+sudo -i
+sudo -s
